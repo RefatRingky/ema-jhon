@@ -1,0 +1,15 @@
+.header{
+    height: 80px;
+    display: flex;
+    background-color:rgb(6, 6, 43);
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+nav.header a{
+    margin-left: 30px;
+    text-decoration: none;
+    color: #ffff;
+}
